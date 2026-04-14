@@ -7,9 +7,13 @@ Built an end-to-end **Generative AI (GenAI) Retrieval-Augmented Generation (RAG)
 ### Key Highlights:
 
 🔹 Implemented intelligent **document chunking strategies** for optimized retrieval
+
 🔹 Generated **vector embeddings** for semantic understanding of document content
+
 🔹 Designed **persistent vector storage** for efficient and scalable retrieval
+
 🔹 Enabled **semantic similarity search** for context-aware document retrieval
+
 🔹 Integrated **LLM-powered response generation** for accurate and contextual answers
 
 This project helped me deepen my understanding of how modern **LLM applications** are built for enterprise knowledge retrieval and search systems.
