@@ -1,0 +1,4 @@
+Description:
+Engineered an end-to-end GenAI-powered Retrieval-Augmented Generation (RAG) system using LangChain, OpenAI API, and Vector Database, 
+featuring document ingestion, intelligent chunking strategies, embedding generation, persistent vector storage, semantic similarity search, 
+and contextual LLM-based response generation for enterprise knowledge retrieval.
